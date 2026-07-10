@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uzeyr</h1>
-<h3 align="center">A passionate software engineer from Toronto</h3>
+<h3 align="center">Im interested in Software Engineering, Backend Engineering, AI/ML, and building real-world applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzeyr77&label=Profile%20views&color=0e75b6&style=flat" alt="uzeyr77" /> </p>
 
