@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Premier League Prediction Dashboard](https://github.com/uzeyr77/PremPredictor)
 
-- 🌱 I’m currently learning **FastAPI, Next.js, Google Oauth**
+- 🌱 I’m currently learning **FastAPI, Next.js, Google Oauth, ML, RAG**
 
 - 📫 How to reach me **Uzeyr.sa@gmail.com**
 
